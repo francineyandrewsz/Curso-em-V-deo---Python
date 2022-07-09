@@ -5,5 +5,5 @@ print('=>'*20, 'DESAFIO 025', '<='*20)
 
 nome = str(input('Qual é seu nome completo? ')).strip()
 
-print('Seu nome tem "Silva"? {}'.format('Silva'in nome.lower()))
+print('Seu nome tem "Silva"? {}'.format('silva'in nome.lower()))
 
