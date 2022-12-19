@@ -5,7 +5,7 @@ o primeiro pacote e mantenha tudo funcionando.'''
 
 def aumentar(preco=0, taxa=0, formato=False):
     """
-    --> Calcula o aumento de um determinado preço, retornando o resulatdo com ou sem formatação.
+    --> Calcula o aumento de um determinado preço, retornando o resultado com ou sem formatação.
     :param preco: o preço que se quer reajustar
     :param taxa: qual é a porcentagem do aumento.
     :param formato: quer a sáida formatada ou não?
